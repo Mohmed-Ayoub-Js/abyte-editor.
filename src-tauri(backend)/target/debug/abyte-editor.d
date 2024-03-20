@@ -1,0 +1,1 @@
+D:\abyte\ editor\abyte\ editor\src-tauri\target\debug\abyte-editor.exe: D:\abyte\ editor\abyte\ editor\src-tauri\build.rs D:\abyte\ editor\abyte\ editor\src-tauri\src\main.rs D:\abyte\ editor\abyte\ editor\src-tauri\target\debug\build\abyte-editor-6c793556933059f2\out\icon.ico D:\abyte\ editor\abyte\ editor\src-tauri\tauri.conf.json
